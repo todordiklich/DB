@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace P01_StudentSystem.Data.Models
@@ -7,6 +8,7 @@ namespace P01_StudentSystem.Data.Models
     {
         public int HomeworkId { get; set; }
 
+        [Required]
         [Column(TypeName = "varchar(250)")]
         public string Content { get; set; }
 
@@ -15,7 +17,7 @@ namespace P01_StudentSystem.Data.Models
         public DateTime SubmissionTime { get; set; }
 
         public int StudentId { get; set; }
-        public Student Strudent { get; set; }
+        public Student Student { get; set; }
 
 
         public int CourseId { get; set; }
