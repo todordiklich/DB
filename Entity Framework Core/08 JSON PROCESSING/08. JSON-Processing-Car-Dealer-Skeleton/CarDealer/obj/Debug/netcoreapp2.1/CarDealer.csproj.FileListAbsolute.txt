@@ -1,0 +1,17 @@
+C:\GitHub\DB\Entity Framework Core\08 JSON PROCESSING\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\Datasets\cars.json
+C:\GitHub\DB\Entity Framework Core\08 JSON PROCESSING\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\Datasets\customers.json
+C:\GitHub\DB\Entity Framework Core\08 JSON PROCESSING\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\Datasets\parts.json
+C:\GitHub\DB\Entity Framework Core\08 JSON PROCESSING\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\Datasets\sales.json
+C:\GitHub\DB\Entity Framework Core\08 JSON PROCESSING\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\Datasets\suppliers.json
+C:\GitHub\DB\Entity Framework Core\08 JSON PROCESSING\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+C:\GitHub\DB\Entity Framework Core\08 JSON PROCESSING\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+C:\GitHub\DB\Entity Framework Core\08 JSON PROCESSING\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+C:\GitHub\DB\Entity Framework Core\08 JSON PROCESSING\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+C:\GitHub\DB\Entity Framework Core\08 JSON PROCESSING\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+C:\GitHub\DB\Entity Framework Core\08 JSON PROCESSING\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+C:\GitHub\DB\Entity Framework Core\08 JSON PROCESSING\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+C:\GitHub\DB\Entity Framework Core\08 JSON PROCESSING\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+C:\GitHub\DB\Entity Framework Core\08 JSON PROCESSING\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+C:\GitHub\DB\Entity Framework Core\08 JSON PROCESSING\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+C:\GitHub\DB\Entity Framework Core\08 JSON PROCESSING\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
+C:\GitHub\DB\Entity Framework Core\08 JSON PROCESSING\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.genruntimeconfig.cache
