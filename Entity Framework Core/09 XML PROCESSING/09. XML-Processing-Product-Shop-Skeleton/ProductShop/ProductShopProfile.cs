@@ -1,4 +1,6 @@
 ﻿using AutoMapper;
+using ProductShop.Dtos.Import;
+using ProductShop.Models;
 
 namespace ProductShop
 {
@@ -6,6 +8,8 @@ namespace ProductShop
     {
         public ProductShopProfile()
         {
+            CreateMap<UserInputModel, User>();
+            CreateMap<ProductInputModel, Product>();
         }
     }
 }

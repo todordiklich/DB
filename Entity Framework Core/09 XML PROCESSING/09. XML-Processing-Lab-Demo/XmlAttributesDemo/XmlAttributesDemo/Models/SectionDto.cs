@@ -8,7 +8,7 @@ namespace XmlAttributesDemo.Models
         [XmlElement("SectionName")]
         public string Name { get; set; }
 
-        [XmlArrayItem("book")]
+        [XmlArrayItem("Book")]
         public BookDto[] Books { get; set; }
     }
 }

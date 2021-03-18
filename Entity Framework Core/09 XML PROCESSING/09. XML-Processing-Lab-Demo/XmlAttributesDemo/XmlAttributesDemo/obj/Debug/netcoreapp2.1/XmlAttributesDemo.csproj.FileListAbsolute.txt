@@ -1,0 +1,12 @@
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Lab-Demo\XmlAttributesDemo\XmlAttributesDemo\bin\Debug\netcoreapp2.1\XmlAttributesDemo.deps.json
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Lab-Demo\XmlAttributesDemo\XmlAttributesDemo\bin\Debug\netcoreapp2.1\XmlAttributesDemo.runtimeconfig.json
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Lab-Demo\XmlAttributesDemo\XmlAttributesDemo\bin\Debug\netcoreapp2.1\XmlAttributesDemo.runtimeconfig.dev.json
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Lab-Demo\XmlAttributesDemo\XmlAttributesDemo\bin\Debug\netcoreapp2.1\XmlAttributesDemo.dll
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Lab-Demo\XmlAttributesDemo\XmlAttributesDemo\bin\Debug\netcoreapp2.1\XmlAttributesDemo.pdb
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Lab-Demo\XmlAttributesDemo\XmlAttributesDemo\obj\Debug\netcoreapp2.1\XmlAttributesDemo.csprojAssemblyReference.cache
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Lab-Demo\XmlAttributesDemo\XmlAttributesDemo\obj\Debug\netcoreapp2.1\XmlAttributesDemo.AssemblyInfoInputs.cache
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Lab-Demo\XmlAttributesDemo\XmlAttributesDemo\obj\Debug\netcoreapp2.1\XmlAttributesDemo.AssemblyInfo.cs
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Lab-Demo\XmlAttributesDemo\XmlAttributesDemo\obj\Debug\netcoreapp2.1\XmlAttributesDemo.csproj.CoreCompileInputs.cache
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Lab-Demo\XmlAttributesDemo\XmlAttributesDemo\obj\Debug\netcoreapp2.1\XmlAttributesDemo.dll
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Lab-Demo\XmlAttributesDemo\XmlAttributesDemo\obj\Debug\netcoreapp2.1\XmlAttributesDemo.pdb
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Lab-Demo\XmlAttributesDemo\XmlAttributesDemo\obj\Debug\netcoreapp2.1\XmlAttributesDemo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\Datasets\categories-products.xml
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\Datasets\categories.xml
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\Datasets\products.xml
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\Datasets\users.xml
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
+C:\GitHub\DB\Entity Framework Core\09 XML PROCESSING\09. XML-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.genruntimeconfig.cache
