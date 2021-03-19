@@ -10,6 +10,8 @@ namespace ProductShop
         {
             CreateMap<UserInputModel, User>();
             CreateMap<ProductInputModel, Product>();
+            CreateMap<CategoryInputModel, Category>();
+            CreateMap<CategoryProductInputModel, CategoryProduct>();
         }
     }
 }
