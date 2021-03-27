@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7yFjCV9bNDANEV0SHq4ij973SRkK+HDcnVt2j0iaaGGQMBiSTvxBXGHq7j+qJNkd970Ury8TF7TMIlpWUoTbTQ==",
+  "dgSpecHash": "qFYxy5xqffGqGE8+2OuUuwBFWanePtGoU80y7CRWzAM09Lx/fBVVh7/9hwE1swn/zq5fo/JywNioBFUqrnKUxQ==",
   "success": true,
   "projectFilePath": "C:\\GitHub\\DB\\Entity Framework Core\\04 ENTITY RELATIONS\\P01_StudentSystem\\P03_FootballBetting\\P03_FootballBetting.csproj",
   "expectedPackageFiles": [
