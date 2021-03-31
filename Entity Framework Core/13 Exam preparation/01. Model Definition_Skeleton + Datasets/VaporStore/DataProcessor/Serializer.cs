@@ -1,9 +1,11 @@
 ﻿namespace VaporStore.DataProcessor
 {
 	using System;
+    using System.Globalization;
     using System.Linq;
     using Data;
     using Newtonsoft.Json;
+    using VaporStore.DataProcessor.Dto.Export;
 
     public static class Serializer
 	{
@@ -36,9 +38,36 @@
 
 		public static string ExportUserPurchasesByType(VaporStoreDbContext context, string storeType)
 		{
+            var userPurchases = context.Purchases.ToArray()
+                .Where(p => p.Type.ToString() == storeType)
+                .Select(p => new UserExportViewModel
+                {
+                    Username = p.Card.User.Username,
+                    Purchases = p.Card.Purchases
+                        .Where(x => x.Type.ToString() == storeType)
+                        .Select(c => new PurchaseExportViewModel
+                        {
+                            CardNumber = c.Card.Number,
+                            Cvc = c.Card.Cvc,
+                            Date = c.Date.ToString("yyyy-MM-dd HH:mm", CultureInfo.InvariantCulture),
+                            Game = new GameExportViewModel
+                            {
+                                Title = c.Game.Name,
+                                Genre = c.Game.Genre.Name,
+                                Price = c.Game.Price
+                            }
+                        })
+                            .OrderBy(p => p.Date)
+                            .ToArray(),
+                    TotalSpent = p.Card.User.Cards
+                        .Sum(c => c.Purchases.Where(x => x.Type.ToString() == storeType)
+                        .Sum(y => y.Game.Price))
+                })
+                .OrderByDescending(u => u.TotalSpent)
+                .ThenBy(u => u.Username)
+                .ToArray();
 
-
-			return "TODO";
+			return XmlConverter.Serialize(userPurchases, "Users");
 		}
 	}
 }
