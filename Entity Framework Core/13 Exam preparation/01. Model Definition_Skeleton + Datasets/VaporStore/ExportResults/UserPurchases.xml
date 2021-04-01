@@ -3,26 +3,21 @@
   <User username="mgraveson">
     <Purchases>
       <Purchase>
-        <Card>7790 7962 4262 5606</Card>
-        <Cvc>966</Cvc>
-        <Date>2018-02-28 08:38</Date>
-        <Game title="Tom Clancy's Ghost Recon Wildlands">
-          <Genre>Action</Genre>
-          <Price>59.99</Price>
-        </Game>
-      </Purchase>
-    </Purchases>
-    <TotalSpent>72.48</TotalSpent>
-  </User>
-  <User username="mgraveson">
-    <Purchases>
-      <Purchase>
         <Card>7991 7779 5123 9211</Card>
         <Cvc>340</Cvc>
         <Date>2017-08-31 17:09</Date>
         <Game title="Counter-Strike: Global Offensive">
           <Genre>Action</Genre>
           <Price>12.49</Price>
+        </Game>
+      </Purchase>
+      <Purchase>
+        <Card>7790 7962 4262 5606</Card>
+        <Cvc>966</Cvc>
+        <Date>2018-02-28 08:38</Date>
+        <Game title="Tom Clancy's Ghost Recon Wildlands">
+          <Genre>Action</Genre>
+          <Price>59.99</Price>
         </Game>
       </Purchase>
     </Purchases>
@@ -39,11 +34,6 @@
           <Price>9.99</Price>
         </Game>
       </Purchase>
-    </Purchases>
-    <TotalSpent>69.98</TotalSpent>
-  </User>
-  <User username="vsjollema">
-    <Purchases>
       <Purchase>
         <Card>4846 1275 4235 3039</Card>
         <Cvc>268</Cvc>
@@ -79,29 +69,6 @@
     </Purchases>
     <TotalSpent>52.48</TotalSpent>
   </User>
-  <User username="bcorcut">
-    <Purchases>
-      <Purchase>
-        <Card>7460 6498 2791 0231</Card>
-        <Cvc>068</Cvc>
-        <Date>2017-12-27 05:10</Date>
-        <Game title="Counter-Strike: Global Offensive">
-          <Genre>Action</Genre>
-          <Price>12.49</Price>
-        </Game>
-      </Purchase>
-      <Purchase>
-        <Card>7460 6498 2791 0231</Card>
-        <Cvc>068</Cvc>
-        <Date>2018-08-31 15:55</Date>
-        <Game title="Conan Exiles">
-          <Genre>Nudity</Genre>
-          <Price>39.99</Price>
-        </Game>
-      </Purchase>
-    </Purchases>
-    <TotalSpent>52.48</TotalSpent>
-  </User>
   <User username="atobin">
     <Purchases>
       <Purchase>
@@ -124,93 +91,6 @@
       </Purchase>
     </Purchases>
     <TotalSpent>49.99</TotalSpent>
-  </User>
-  <User username="atobin">
-    <Purchases>
-      <Purchase>
-        <Card>6975 1775 3435 4897</Card>
-        <Cvc>857</Cvc>
-        <Date>2016-04-27 18:40</Date>
-        <Game title="NBA 2K18">
-          <Genre>Simulation</Genre>
-          <Price>49.99</Price>
-        </Game>
-      </Purchase>
-      <Purchase>
-        <Card>6975 1775 3435 4897</Card>
-        <Cvc>857</Cvc>
-        <Date>2018-06-22 12:45</Date>
-        <Game title="Warframe">
-          <Genre>Violent</Genre>
-          <Price>0</Price>
-        </Game>
-      </Purchase>
-    </Purchases>
-    <TotalSpent>49.99</TotalSpent>
-  </User>
-  <User username="aruthven">
-    <Purchases>
-      <Purchase>
-        <Card>5208 8381 5687 8508</Card>
-        <Cvc>624</Cvc>
-        <Date>2016-04-10 17:40</Date>
-        <Game title="Yu-Gi-Oh! Duel Links">
-          <Genre>Free to Play</Genre>
-          <Price>0</Price>
-        </Game>
-      </Purchase>
-      <Purchase>
-        <Card>5208 8381 5687 8508</Card>
-        <Cvc>624</Cvc>
-        <Date>2016-06-29 10:42</Date>
-        <Game title="NARUTO SHIPPUDEN: Ultimate Ninja STORM 4">
-          <Genre>Action</Genre>
-          <Price>29.99</Price>
-        </Game>
-      </Purchase>
-      <Purchase>
-        <Card>5208 8381 5687 8508</Card>
-        <Cvc>624</Cvc>
-        <Date>2018-01-11 19:46</Date>
-        <Game title="Slay the Spire">
-          <Genre>Indie</Genre>
-          <Price>15.99</Price>
-        </Game>
-      </Purchase>
-    </Purchases>
-    <TotalSpent>45.98</TotalSpent>
-  </User>
-  <User username="aruthven">
-    <Purchases>
-      <Purchase>
-        <Card>5208 8381 5687 8508</Card>
-        <Cvc>624</Cvc>
-        <Date>2016-04-10 17:40</Date>
-        <Game title="Yu-Gi-Oh! Duel Links">
-          <Genre>Free to Play</Genre>
-          <Price>0</Price>
-        </Game>
-      </Purchase>
-      <Purchase>
-        <Card>5208 8381 5687 8508</Card>
-        <Cvc>624</Cvc>
-        <Date>2016-06-29 10:42</Date>
-        <Game title="NARUTO SHIPPUDEN: Ultimate Ninja STORM 4">
-          <Genre>Action</Genre>
-          <Price>29.99</Price>
-        </Game>
-      </Purchase>
-      <Purchase>
-        <Card>5208 8381 5687 8508</Card>
-        <Cvc>624</Cvc>
-        <Date>2018-01-11 19:46</Date>
-        <Game title="Slay the Spire">
-          <Genre>Indie</Genre>
-          <Price>15.99</Price>
-        </Game>
-      </Purchase>
-    </Purchases>
-    <TotalSpent>45.98</TotalSpent>
   </User>
   <User username="aruthven">
     <Purchases>
@@ -337,93 +217,6 @@
     </Purchases>
     <TotalSpent>29.99</TotalSpent>
   </User>
-  <User username="kroderighi">
-    <Purchases>
-      <Purchase>
-        <Card>7036 3344 0149 7880</Card>
-        <Cvc>094</Cvc>
-        <Date>2017-02-04 00:11</Date>
-        <Game title="Brawlhalla">
-          <Genre>Action</Genre>
-          <Price>0</Price>
-        </Game>
-      </Purchase>
-      <Purchase>
-        <Card>7036 3344 0149 7880</Card>
-        <Cvc>094</Cvc>
-        <Date>2018-01-22 11:51</Date>
-        <Game title="NARUTO SHIPPUDEN: Ultimate Ninja STORM 4">
-          <Genre>Action</Genre>
-          <Price>29.99</Price>
-        </Game>
-      </Purchase>
-    </Purchases>
-    <TotalSpent>29.99</TotalSpent>
-  </User>
-  <User username="cgara">
-    <Purchases>
-      <Purchase>
-        <Card>5103 9356 9768 6854</Card>
-        <Cvc>493</Cvc>
-        <Date>2016-09-12 22:11</Date>
-        <Game title="FOR HONOR">
-          <Genre>Action</Genre>
-          <Price>14.99</Price>
-        </Game>
-      </Purchase>
-      <Purchase>
-        <Card>5103 9356 9768 6854</Card>
-        <Cvc>493</Cvc>
-        <Date>2016-12-03 23:16</Date>
-        <Game title="Neverwinter">
-          <Genre>Adventure</Genre>
-          <Price>0</Price>
-        </Game>
-      </Purchase>
-      <Purchase>
-        <Card>5103 9356 9768 6854</Card>
-        <Cvc>493</Cvc>
-        <Date>2017-01-20 21:52</Date>
-        <Game title="Tom Clancy's Rainbow Six Siege">
-          <Genre>Action</Genre>
-          <Price>14.99</Price>
-        </Game>
-      </Purchase>
-    </Purchases>
-    <TotalSpent>29.98</TotalSpent>
-  </User>
-  <User username="cgara">
-    <Purchases>
-      <Purchase>
-        <Card>5103 9356 9768 6854</Card>
-        <Cvc>493</Cvc>
-        <Date>2016-09-12 22:11</Date>
-        <Game title="FOR HONOR">
-          <Genre>Action</Genre>
-          <Price>14.99</Price>
-        </Game>
-      </Purchase>
-      <Purchase>
-        <Card>5103 9356 9768 6854</Card>
-        <Cvc>493</Cvc>
-        <Date>2016-12-03 23:16</Date>
-        <Game title="Neverwinter">
-          <Genre>Adventure</Genre>
-          <Price>0</Price>
-        </Game>
-      </Purchase>
-      <Purchase>
-        <Card>5103 9356 9768 6854</Card>
-        <Cvc>493</Cvc>
-        <Date>2017-01-20 21:52</Date>
-        <Game title="Tom Clancy's Rainbow Six Siege">
-          <Genre>Action</Genre>
-          <Price>14.99</Price>
-        </Game>
-      </Purchase>
-    </Purchases>
-    <TotalSpent>29.98</TotalSpent>
-  </User>
   <User username="cgara">
     <Purchases>
       <Purchase>
@@ -469,29 +262,6 @@
       </Purchase>
     </Purchases>
     <TotalSpent>27.99</TotalSpent>
-  </User>
-  <User username="spaprotny">
-    <Purchases>
-      <Purchase>
-        <Card>9185 2070 3009 4543</Card>
-        <Cvc>518</Cvc>
-        <Date>2016-09-08 02:54</Date>
-        <Game title="Rules Of Survival">
-          <Genre>Action</Genre>
-          <Price>2.39</Price>
-        </Game>
-      </Purchase>
-      <Purchase>
-        <Card>9185 2070 3009 4543</Card>
-        <Cvc>518</Cvc>
-        <Date>2018-07-25 18:31</Date>
-        <Game title="House Flipper">
-          <Genre>Indie</Genre>
-          <Price>16.79</Price>
-        </Game>
-      </Purchase>
-    </Purchases>
-    <TotalSpent>19.18</TotalSpent>
   </User>
   <User username="spaprotny">
     <Purchases>
@@ -603,20 +373,6 @@
   <User username="klife">
     <Purchases>
       <Purchase>
-        <Card>0540 4834 3653 5943</Card>
-        <Cvc>943</Cvc>
-        <Date>2017-09-25 05:40</Date>
-        <Game title="Warface">
-          <Genre>Action</Genre>
-          <Price>0</Price>
-        </Game>
-      </Purchase>
-    </Purchases>
-    <TotalSpent>9.99</TotalSpent>
-  </User>
-  <User username="klife">
-    <Purchases>
-      <Purchase>
         <Card>2962 0872 0998 4724</Card>
         <Cvc>638</Cvc>
         <Date>2017-01-03 16:28</Date>
@@ -625,18 +381,13 @@
           <Price>9.99</Price>
         </Game>
       </Purchase>
-    </Purchases>
-    <TotalSpent>9.99</TotalSpent>
-  </User>
-  <User username="svannini">
-    <Purchases>
       <Purchase>
-        <Card>2175 1623 6855 0876</Card>
-        <Cvc>760</Cvc>
-        <Date>2017-12-12 09:46</Date>
-        <Game title="Terraria">
+        <Card>0540 4834 3653 5943</Card>
+        <Cvc>943</Cvc>
+        <Date>2017-09-25 05:40</Date>
+        <Game title="Warface">
           <Genre>Action</Genre>
-          <Price>9.99</Price>
+          <Price>0</Price>
         </Game>
       </Purchase>
     </Purchases>
@@ -651,6 +402,15 @@
         <Game title="Path of Exile">
           <Genre>Nudity</Genre>
           <Price>0</Price>
+        </Game>
+      </Purchase>
+      <Purchase>
+        <Card>2175 1623 6855 0876</Card>
+        <Cvc>760</Cvc>
+        <Date>2017-12-12 09:46</Date>
+        <Game title="Terraria">
+          <Genre>Action</Genre>
+          <Price>9.99</Price>
         </Game>
       </Purchase>
     </Purchases>
@@ -707,29 +467,6 @@
     </Purchases>
     <TotalSpent>0</TotalSpent>
   </User>
-  <User username="fdedam">
-    <Purchases>
-      <Purchase>
-        <Card>9574 1800 3833 2972</Card>
-        <Cvc>512</Cvc>
-        <Date>2016-04-16 14:45</Date>
-        <Game title="Brawlhalla">
-          <Genre>Action</Genre>
-          <Price>0</Price>
-        </Game>
-      </Purchase>
-      <Purchase>
-        <Card>9574 1800 3833 2972</Card>
-        <Cvc>512</Cvc>
-        <Date>2016-04-25 13:53</Date>
-        <Game title="Team Fortress 2">
-          <Genre>Action</Genre>
-          <Price>0</Price>
-        </Game>
-      </Purchase>
-    </Purchases>
-    <TotalSpent>0</TotalSpent>
-  </User>
   <User username="fstoter">
     <Purchases>
       <Purchase>
@@ -752,29 +489,6 @@
         <Date>2017-08-25 06:12</Date>
         <Game title="Warframe">
           <Genre>Violent</Genre>
-          <Price>0</Price>
-        </Game>
-      </Purchase>
-    </Purchases>
-    <TotalSpent>0</TotalSpent>
-  </User>
-  <User username="rabbison">
-    <Purchases>
-      <Purchase>
-        <Card>5747 3965 9959 7596</Card>
-        <Cvc>463</Cvc>
-        <Date>2016-09-08 17:07</Date>
-        <Game title="SMITE">
-          <Genre>Action</Genre>
-          <Price>0</Price>
-        </Game>
-      </Purchase>
-      <Purchase>
-        <Card>5747 3965 9959 7596</Card>
-        <Cvc>463</Cvc>
-        <Date>2017-12-05 17:03</Date>
-        <Game title="Path of Exile">
-          <Genre>Nudity</Genre>
           <Price>0</Price>
         </Game>
       </Purchase>

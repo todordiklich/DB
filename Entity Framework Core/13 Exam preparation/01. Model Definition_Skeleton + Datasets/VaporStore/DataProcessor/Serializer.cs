@@ -38,30 +38,30 @@
 
 		public static string ExportUserPurchasesByType(VaporStoreDbContext context, string storeType)
 		{
-            var userPurchases = context.Purchases.ToArray()
-                .Where(p => p.Type.ToString() == storeType)
-                .Select(p => new UserExportViewModel
+            var userPurchases = context.Users.ToList()
+                .Where(u => u.Cards.Any(c => c.Purchases.Any(p => p.Type.ToString() == storeType)))
+                .Select(u => new UserExportViewModel
                 {
-                    Username = p.Card.User.Username,
-                    Purchases = p.Card.Purchases
-                        .Where(x => x.Type.ToString() == storeType)
-                        .Select(c => new PurchaseExportViewModel
+                    Username = u.Username,
+                    Purchases = u.Cards.SelectMany(c => c.Purchases)
+                        .Where(p => p.Type.ToString() == storeType)
+                        .Select(p => new PurchaseExportViewModel
                         {
-                            CardNumber = c.Card.Number,
-                            Cvc = c.Card.Cvc,
-                            Date = c.Date.ToString("yyyy-MM-dd HH:mm", CultureInfo.InvariantCulture),
+                            CardNumber = p.Card.Number,
+                            Cvc = p.Card.Cvc,
+                            Date = p.Date.ToString("yyyy-MM-dd HH:mm", CultureInfo.InvariantCulture),
                             Game = new GameExportViewModel
                             {
-                                Title = c.Game.Name,
-                                Genre = c.Game.Genre.Name,
-                                Price = c.Game.Price
+                                Title = p.Game.Name,
+                                Genre = p.Game.Genre.Name,
+                                Price = p.Game.Price
                             }
                         })
                             .OrderBy(p => p.Date)
                             .ToArray(),
-                    TotalSpent = p.Card.User.Cards
-                        .Sum(c => c.Purchases.Where(x => x.Type.ToString() == storeType)
-                        .Sum(y => y.Game.Price))
+                    TotalSpent = u.Cards
+                    .SelectMany(c => c.Purchases.Where(p => p.Type.ToString() == storeType))
+                    .Sum(p => p.Game.Price)
                 })
                 .OrderByDescending(u => u.TotalSpent)
                 .ThenBy(u => u.Username)
