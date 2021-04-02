@@ -1,0 +1,12 @@
+C:\GitHub\DB\Entity Framework Core\14 Exam preparation\01. Model Defition_Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.deps.json
+C:\GitHub\DB\Entity Framework Core\14 Exam preparation\01. Model Defition_Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.json
+C:\GitHub\DB\Entity Framework Core\14 Exam preparation\01. Model Defition_Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.dev.json
+C:\GitHub\DB\Entity Framework Core\14 Exam preparation\01. Model Defition_Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.dll
+C:\GitHub\DB\Entity Framework Core\14 Exam preparation\01. Model Defition_Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.pdb
+C:\GitHub\DB\Entity Framework Core\14 Exam preparation\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.csprojAssemblyReference.cache
+C:\GitHub\DB\Entity Framework Core\14 Exam preparation\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfoInputs.cache
+C:\GitHub\DB\Entity Framework Core\14 Exam preparation\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfo.cs
+C:\GitHub\DB\Entity Framework Core\14 Exam preparation\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.CoreCompileInputs.cache
+C:\GitHub\DB\Entity Framework Core\14 Exam preparation\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.dll
+C:\GitHub\DB\Entity Framework Core\14 Exam preparation\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.pdb
+C:\GitHub\DB\Entity Framework Core\14 Exam preparation\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.genruntimeconfig.cache
