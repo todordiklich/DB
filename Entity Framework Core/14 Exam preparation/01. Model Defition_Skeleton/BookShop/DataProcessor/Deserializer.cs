@@ -68,20 +68,11 @@
 
             foreach (var authorImportViewModel in authorImportViewModels)
             {
-                var authorBooks = authorImportViewModel.Books.Where(b => b.Id != null);
-                var booksToAdd = new List<int>();
-
-                foreach (var authorBook in authorBooks)
-                {
-                    if (allbooksIds.Contains(authorBook.Id.Value))
-                    {
-                        booksToAdd.Add(authorBook.Id.Value);
-                    }
-                }
+                var authorBooks = authorImportViewModel.Books.Where(b => b.Id != null && allbooksIds.Contains(b.Id.Value));
 
                 if (!IsValid(authorImportViewModel) ||
                     context.Authors.Any(a => a.Email == authorImportViewModel.Email) ||
-                    booksToAdd.Count() == 0)
+                    authorBooks.Count() == 0)
                 {
                     sb.AppendLine(ErrorMessage);
                     continue;
@@ -93,12 +84,12 @@
                     LastName = authorImportViewModel.LastName,
                     Phone = authorImportViewModel.Phone,
                     Email = authorImportViewModel.Email,
-                    AuthorsBooks = booksToAdd
+                    AuthorsBooks = authorBooks
                         .Select(b => new AuthorBook 
-                            {
-                                BookId = b
-                            })
-                            .ToList()
+                        {
+                            BookId = b.Id.Value
+                        })
+                        .ToList()
                 };
 
                 context.Authors.Add(author);

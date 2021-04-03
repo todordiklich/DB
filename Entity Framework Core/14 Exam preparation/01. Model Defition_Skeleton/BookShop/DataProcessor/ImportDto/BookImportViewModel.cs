@@ -1,8 +1,4 @@
-﻿using BookShop.Data.Models.Enums;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Text;
+﻿using System.ComponentModel.DataAnnotations;
 using System.Xml.Serialization;
 
 namespace BookShop.DataProcessor.ImportDto
