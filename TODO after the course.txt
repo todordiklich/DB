@@ -1,5 +1,5 @@
 - Rest
-- C# OOP + Advanced
+- C# OOP + Advanced => Streams and Attributes
 - EF Core + DB
 - Internet Explained: https://youtu.be/zqmNjdrKmdc
 - HTML - https://youtu.be/TewMxkTddQk
