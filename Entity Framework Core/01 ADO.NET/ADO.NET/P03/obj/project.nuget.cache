@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SaKtWPAu3cMkUuHKXteCwHST5LhcfqE2fCfIFGVTvqryczNAf/Qcm0HnUASU/xvxcblIwTUjwLCk9odzGihO0A==",
+  "dgSpecHash": "2XHUVpJPXK0rjgXFb6SFrc35wo5HrDpju71srqwGKnNaEmDvERGh6LK2zISXCaspD9p2CLFPFOs3C7EeqfVLAw==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\DB\\Entity Framework Core\\01 ADO.NET\\ADO.NET\\P03\\P03.csproj",
+  "projectFilePath": "C:\\Git\\DB\\Entity Framework Core\\01 ADO.NET\\ADO.NET\\P03\\P03.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.1\\microsoft.data.sqlclient.2.1.1.nupkg.sha512",

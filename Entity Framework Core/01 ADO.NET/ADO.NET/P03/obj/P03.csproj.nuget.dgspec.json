@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\DB\\Entity Framework Core\\01 ADO.NET\\ADO.NET\\P03\\P03.csproj": {}
+    "C:\\Git\\DB\\Entity Framework Core\\01 ADO.NET\\ADO.NET\\P03\\P03.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\DB\\Entity Framework Core\\01 ADO.NET\\ADO.NET\\P03\\P03.csproj": {
+    "C:\\Git\\DB\\Entity Framework Core\\01 ADO.NET\\ADO.NET\\P03\\P03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\DB\\Entity Framework Core\\01 ADO.NET\\ADO.NET\\P03\\P03.csproj",
+        "projectUniqueName": "C:\\Git\\DB\\Entity Framework Core\\01 ADO.NET\\ADO.NET\\P03\\P03.csproj",
         "projectName": "P03",
-        "projectPath": "C:\\GitHub\\DB\\Entity Framework Core\\01 ADO.NET\\ADO.NET\\P03\\P03.csproj",
+        "projectPath": "C:\\Git\\DB\\Entity Framework Core\\01 ADO.NET\\ADO.NET\\P03\\P03.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\DB\\Entity Framework Core\\01 ADO.NET\\ADO.NET\\P03\\obj\\",
+        "outputPath": "C:\\Git\\DB\\Entity Framework Core\\01 ADO.NET\\ADO.NET\\P03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
