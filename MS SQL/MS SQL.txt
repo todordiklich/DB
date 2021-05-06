@@ -1,0 +1,28 @@
+1. DATABASES INTRODUCTION
+https://www.youtube.com/watch?v=4uwArOTPlyQ&ab_channel=SoftwareUniversity%28SoftUni%29
+https://www.youtube.com/watch?v=eXORxoifLsA&ab_channel=SoftwareUniversity%28SoftUni%29
+2. CRUD
+https://www.youtube.com/watch?v=QYEeddOCe4U&ab_channel=SoftwareUniversity%28SoftUni%29
+https://www.youtube.com/watch?v=t9c99o85qO0&t=1s&ab_channel=SoftwareUniversity%28SoftUni%29
+3. TABLE RELATIONS
+https://www.youtube.com/watch?v=U7tTwG0rdGk&t=1s&ab_channel=SoftwareUniversity%28SoftUni%29
+https://www.youtube.com/watch?v=vxoCxg6iZoA&t=1s&ab_channel=SoftwareUniversity%28SoftUni%29
+4. BUILT-IN FUNCTIONS
+https://www.youtube.com/watch?v=WO5L-QIJs8A&ab_channel=SoftwareUniversity%28SoftUni%29
+https://www.youtube.com/watch?v=lTcVkQcPbK4&t=1s&ab_channel=SoftwareUniversity%28SoftUni%29
+5. SUBQUERIES AND JOINS
+https://www.youtube.com/watch?v=hEEcqb3dtDg&ab_channel=SoftwareUniversity%28SoftUni%29
+https://www.youtube.com/watch?v=wvgXDwuJPZw&ab_channel=SoftwareUniversity%28SoftUni%29
+6. INDICES AND DATA AGGREGATION
+https://www.youtube.com/watch?v=bKfYTmtqJ_w&ab_channel=SoftwareUniversity%28SoftUni%29
+https://www.youtube.com/watch?v=dgfbxPcm_KE&ab_channel=SoftwareUniversity%28SoftUni%29
+7. FUNCTIONS AND STORED PROCEDURES
+https://www.youtube.com/watch?v=74OjdxPS0lk&ab_channel=SoftwareUniversity%28SoftUni%29
+https://www.youtube.com/watch?v=p0vo1OPVbHE&ab_channel=SoftwareUniversity%28SoftUni%29
+8. TRIGGERS AND TRANSACTIONS
+https://www.youtube.com/watch?v=mYJOHmUZEk8&t=1s&ab_channel=SoftwareUniversity%28SoftUni%29
+https://www.youtube.com/watch?v=dmnT7VwFtEs&ab_channel=SoftwareUniversity%28SoftUni%29
+9. EXAM PREPARATION
+https://www.youtube.com/watch?v=EtxiCbl2aXM&t=2s&ab_channel=SoftwareUniversity%28SoftUni%29
+https://www.youtube.com/watch?v=CKJuqFM3H_c&t=3s&ab_channel=SoftwareUniversity%28SoftUni%29
+https://www.youtube.com/watch?v=Kjtf-7ka2Pg&t=1s&ab_channel=SoftwareUniversity%28SoftUni%29
